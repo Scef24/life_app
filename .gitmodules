@@ -1,0 +1,6 @@
+[submodule "life_app_backend"]
+	path = life_app_backend
+	url = git@github.com:Scef24/life_app_backend.git
+[submodule "life_app_frontend"]
+	path = life_app_frontend
+	url = git@github.com:Scef24/life_app_frontend.git
